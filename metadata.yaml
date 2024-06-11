@@ -1,0 +1,46 @@
+_repo: Tarinoita_73646
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Putro, Sakari
+    birthdate: 1856
+    deathdate: 1931
+    gutenberg_agent_id: '57164'
+    url: http://www.gutenberg.org/2009/agents/57164
+    wikipedia: https://fi.wikipedia.org/wiki/Sakari_Putro
+creator:
+  author:
+    agent_name: Krylov, Ivan Andreevich
+    aliases:
+    - Крылов, Иван Андреевич
+    - Krylow, Iwan
+    - Kriloff, Ivan Andryeevich
+    - Krylov, I. A. (Ivan Andreevich)
+    birthdate: 1768
+    deathdate: 1844
+    gutenberg_agent_id: '57163'
+    url: http://www.gutenberg.org/2009/agents/57163
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ivan_Krylov
+    - https://fi.wikipedia.org/wiki/Ivan_Krylov
+description: ''
+gutenberg_issued: '2024-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73646'
+language: fi
+pgterms:marc905: 20160815093321krylov
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kansa, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian poetry -- Translations into Finnish'
+- !lcsh 'Fables, Russian -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: Tarinoita
+url: http://www.gutenberg.org/ebooks/73646
